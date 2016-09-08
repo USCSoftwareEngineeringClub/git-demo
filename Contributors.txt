@@ -4,6 +4,11 @@ Jeremy Gay
 Tori McQuinn
 Daniel Pade
 Thomas Panetti
+Harambe
 Jason Drain
 Dylan Madisetti
+<<<<<<< HEAD
 Foster Jaques
+=======
+Roy Myers
+>>>>>>> 0be052f57bcb795bdb321ecdd8ca7c3f4c7eb620
