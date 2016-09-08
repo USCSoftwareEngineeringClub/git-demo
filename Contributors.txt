@@ -8,8 +8,5 @@ Harambe
 Jason Drain
 Maheedhar Mandapati
 Dylan Madisetti
-<<<<<<< HEAD
 Foster Jaques
-=======
 Roy Myers
->>>>>>> 0be052f57bcb795bdb321ecdd8ca7c3f4c7eb620
